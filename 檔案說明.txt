@@ -1,0 +1,9 @@
+此範例為高雄旅遊網、透過此範例來練習 分頁、篩選 功能
+
+
+
+高雄旅遊網 JSON:
+https://raw.githubusercontent.com/hexschool/KCGTravel/master/datastore_search.json
+範例中也有提供完整 JSON
+可擇一使用
+
